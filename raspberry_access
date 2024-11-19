@@ -1,0 +1,6 @@
+# Este documento tiene la informacion para acceder a la raspberry pi mediante SSH, les pido mucha discrecion con esta informacion. Estare monitoreando el uso de la raspberry para evitar inconvenientes.
+# El objetivo es poder experimentar con la raspberry y ver hasta que punto se puede construir una solucion educativa de bajo costo. Por favor avisenme cuando la vayan a utilizar para prenderla y dejarla disponible.
+- username: asus
+- IP4Address: 192.168.5.114
+- password: Temp?Password$20
+
